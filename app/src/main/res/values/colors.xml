@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+   <!-- <color name="purple_700">#63a4ff</color>-->
+    <color name="purple_700">#AA4A7B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#5BA96B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textView_login">#424242</color>
+    <color name="textView_hint_login">#8B919A</color>
+    <color name="textView_line_login">#CFCFCF</color>
+    <color name="check_box_bg_login">#63a4ff</color>
+    <color name="check_box_check_bg_login">#63a4ff</color>
+    <color name="check_box_tick_login">#FFFFFF</color>
+    <color name="check_box_circle_login">#878EA1</color>
+    <color name="icon_tint">#8B919A</color>
+</resources>
